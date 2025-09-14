@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A simple **Expense Tracking App** built with **Python, Tkinter, Matplotlib, and SQLite**.
+**Expense Tracking App** built with **Python, Tkinter, Matplotlib, and SQLite**.
 
 ## ✨ Features
 - Add categories and expenses
